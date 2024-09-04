@@ -25,4 +25,5 @@ Digital-garden (устанавливается через сторонние п�
 Strapi: https://strapi.io/
 Strapi, пример использования: https://habr.com/ru/companies/kts/articles/837888/
 
-Template: [[strapi_01_template\|strapi_01_template]]
+Template: ![[Преподавание/ТиМП/Задания/attachments/strapi_01_template.txt]]
+
