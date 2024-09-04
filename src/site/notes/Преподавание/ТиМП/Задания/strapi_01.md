@@ -20,6 +20,8 @@ Digital-garden (устанавливается через сторонние п�
 
 **По поводу digital garden: ставьте приличные нормальные имена.**
 
+Пример API: https://data.mos.ru/developers/documentation
+
 Strapi: https://strapi.io/
 Strapi, пример использования: https://habr.com/ru/companies/kts/articles/837888/
 
