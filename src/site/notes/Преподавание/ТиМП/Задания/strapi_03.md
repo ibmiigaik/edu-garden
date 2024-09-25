@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/prepodavanie/ti-mp/zadaniya/strapi-03/"}
 ---
 
-
+***Дедлайн*:** **01.10.2024 19:00**
 # Реализация API посредством Strapi
 
 ## Тестирование готового API
